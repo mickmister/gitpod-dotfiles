@@ -1,1 +1,1 @@
-touch $GITPOD_REPO_ROOT/fromdotfile1337
+sudo apt-get install -y hub
