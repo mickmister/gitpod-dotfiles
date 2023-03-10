@@ -1,3 +1,6 @@
 #!/bin/bash
 
-sudo apt-get install -y hub
+cd /workspace
+git clone https://github.com/mickmister/gitpod-dotfiles.git
+
+brew install gh
